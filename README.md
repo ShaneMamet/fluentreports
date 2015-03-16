@@ -7,7 +7,7 @@ Fluent Reports - Data Driven PDF Reporting Engine for Node.js
 
 Install
 
-```npm install fluentreports```
+`npm install fluentreports`
 
 
 
